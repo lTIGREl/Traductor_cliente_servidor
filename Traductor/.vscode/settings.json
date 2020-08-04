@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist=PyQt5"
+    ],
+    "python.pythonPath": "/usr/bin/python3",
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": false
+}
